@@ -1,0 +1,53 @@
+.nav{
+    background-color: #ff5733!important;
+    color: white;
+}
+.TagName{
+    font-family: sans-serif;
+     /* font-weight: bold;  */
+    color: white;
+    float: left;
+}
+body{
+    background-color: ghostwhite;
+}
+a{
+    color: white !important;
+}
+.car{
+    margin-bottom: 10px;    
+}
+.card{
+    background-color: black;
+    color: white;
+}
+.dropdown-item{
+    color: black !important;
+    font-size: small;
+}
+.carou{
+    height: 800px;
+}
+h2{
+    color: #ff5733 !important;
+    font-weight: bolder;
+
+}
+.productDetail{
+
+}
+.login{
+    margin-top: 200px;
+margin-bottom: auto;
+}
+.footer{
+    background-color: #ff5733;
+    color: white;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    font-size: large;
+}
